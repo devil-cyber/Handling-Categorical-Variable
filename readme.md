@@ -4,6 +4,7 @@
 * Then observe you dataset and figure out which encoding technique you wants to used
 * After that call that library and do as follows:
 ```python
+Download package : pip install categorical-variable-handling==0.1
 from categorical_variable _handling import CategoricalFeature
 column="Give here the list of Categorical column"
 dataframe="Here give the dataframe"
