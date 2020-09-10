@@ -10,7 +10,7 @@ setuptools.setup(
     install_requires=['certifi', 'joblib', 'numpy', 'pandas', 'python-dateutil', 'pytz', 'scikit-learn', 'scipy', 'six',
                       'sklearn', 'threadpoolctl', 'wincertstore'],
     author_email="mani2474695@gmail.com",
-    description="All classifier algorithm at one place",
+    description="Handling categorical variables",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/devil-cyber/Handling-Categorical-Variable",
