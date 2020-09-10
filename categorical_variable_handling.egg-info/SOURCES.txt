@@ -1,0 +1,8 @@
+setup.py
+categorical_variable_handling/__init__.py
+categorical_variable_handling/hello.py
+categorical_variable_handling.egg-info/PKG-INFO
+categorical_variable_handling.egg-info/SOURCES.txt
+categorical_variable_handling.egg-info/dependency_links.txt
+categorical_variable_handling.egg-info/requires.txt
+categorical_variable_handling.egg-info/top_level.txt
